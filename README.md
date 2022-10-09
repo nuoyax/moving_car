@@ -3,4 +3,4 @@ CSS实现行动的小车动画
   喜欢的话，GitHub点下右上角Star哈~
 
 ![](car.gif)
-
+![](car.png)

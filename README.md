@@ -5,7 +5,7 @@ CSS实现行动的小车动画
 在线演示地址: (https://nuoyax.github.io/moving_car/)
 
 # css类和id高亮显示
-`
+```
 "highlight.regexes": {
   "(.-?[_a-zA-Z]+[_a-zA-Z0-9-]*(?=[^}]*\\{))": { //正则匹配
     "regexFlags": "g",
@@ -16,7 +16,7 @@ CSS实现行动的小车动画
     ]
   }
 }
-`
+```
 
 ![](car.gif)
 ![](car.png)

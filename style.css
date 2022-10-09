@@ -7,6 +7,8 @@
   --color-car-body: #f06043;
   --color-bg-1: #e4ffff;
 }
+
+
 html {
   height: 100%;
 }
@@ -32,6 +34,7 @@ body {
   border-radius: 1vmin;
   border-right: 0;
 }
+
 .car__top::after {
   content: "";
   position: absolute;
@@ -204,6 +207,7 @@ body {
     transform: rotate(360deg);
   }
 }
+
 @keyframes start-car {
   0%,
   10%,
